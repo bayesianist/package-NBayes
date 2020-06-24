@@ -1,0 +1,18 @@
+Package: NBayes
+Title: Mixed-type predictors Naives Bayes Classifier
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Long",
+           family = "NGUYEN PHUOC",
+           role = c("aut", "cre"),
+           email = "long.nguyenph@gmail.com",
+           comment = "Master 2 SISE - Université Lyon 2")
+Description: A binarization strategy for Naives Bayes Classifier adapted for categorical and/or numerical predictors.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+Imports: ade4
+Author: Long NGUYEN PHUOC [aut, cre] (Master 2 SISE - Université Lyon 2)
+Maintainer: Long NGUYEN PHUOC <long.nguyenph@gmail.com>
+Built: R 3.6.1; ; 2019-12-12 06:36:16 UTC; windows
